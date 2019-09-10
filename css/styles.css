@@ -1,0 +1,12 @@
+body {
+   font-family: 'Livvic', sans-serif;
+ }
+
+.site-header{
+    border-bottom; 3px solid blue;
+}
+
+.site-title {
+float: left;
+
+}
