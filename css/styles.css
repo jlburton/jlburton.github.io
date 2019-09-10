@@ -9,6 +9,10 @@ body {
 .site-title {
 float: left;
 }
+
+.site-navigation{
+    float: right;
+}
 .page-link { 
     margin-left: 20px;
 }
