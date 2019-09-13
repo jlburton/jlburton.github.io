@@ -1,7 +1,10 @@
 body {
    font-family: 'Livvic', sans-serif;
  }
- div {display: block;}
+ div {
+     display: block;
+    }
+
 
 .site-header{
     border-bottom: 1px, solid blue;
